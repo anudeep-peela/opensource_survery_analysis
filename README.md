@@ -18,4 +18,4 @@ I wanted to know the quailities of open sourcer contributors and how it would he
 From the analysis, it is evident that open source contributors developer are paid better and the programmer who sees the value in code reviews and unit testing are better paid.
 
 ## Acknowledgements
-I would thank Udacity for guidance and stack overflow for the data
+I would thank Udacity for guidance , stack overflow for the data and also wikipedia for definitions
